@@ -52,3 +52,13 @@
 <p align="left">I am currently working on event-based cameras and their applications, but I am interested in machine learning problems in general. As an electrical and electronics engineering graduate, I would like to get an insight into the proposed architecture's statistics for these problems.</p>
 
 ###
+
+<h4 align="left">Latests Projects</p>
+
+###
+
+<ul>
+  <li><a href="https://github.com/OnurSelim/E-VFIA">OnurSelim/E-VFIA</a> - E-VFIA : Event-Based Video Frame Interpolation with Attention</li>
+</ul> 
+
+###
