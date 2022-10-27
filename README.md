@@ -32,7 +32,7 @@
   <a href="mailto: kselim97@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://tr.linkedin.com/in/onur-selim-kili%C3%A7-6486371a7" target="_blank">
+  <a href="https://linkedin.com/in/onur-selim-kili%C3%A7-6486371a7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto: kselim97@hotmail.com" target="_blank">
@@ -46,5 +46,13 @@
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/OnurSelim/count.svg?"  />
+</div>
+
+###
+
+<p align="left">I am currently working on event-based cameras and their applications, but I am interested in machine learning problems in general. As an electrical and electronics engineering graduate, I would like to get an insight into the proposed architecture's statistics for these problems.</p>
 
 ###
