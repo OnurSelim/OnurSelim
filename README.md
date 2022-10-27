@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="150" src="http://eee.metu.edu.tr/sites/eee.metu.edu.tr/files/styles/people_square/public/people_pictures/Onur_Selim_Kilic.jpg"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
@@ -34,20 +38,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<img align="right" height="150" src="http://eee.metu.edu.tr/sites/eee.metu.edu.tr/files/styles/people_square/public/people_pictures/Onur_Selim_Kilic.jpg"  />
-
-###
-
-<p align="center"></p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/OnurSelim/count.svg?"  />
-</div>
+<br clear="both">
 
 ###
