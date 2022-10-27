@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Onur Selim and I'm a Ph.D. candidate in METU, Ankara/Turkey.</h2>
+<h2 align="center">Hi! My name is Onur Selim and I'm a Ph.D. candidate in METU, Ankara/Turkey.</h2>
 
 ###
 
@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="http://eee.metu.edu.tr/sites/eee.metu.edu.tr/files/styles/people_square/public/people_pictures/Onur_Selim_Kilic.jpg"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
@@ -28,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto: kselim97@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -45,7 +41,7 @@
 
 ###
 
-<br clear="both">
+<h4 align="center">Profile Views</p>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/OnurSelim/count.svg?"  />
